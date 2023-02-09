@@ -1,2 +1,2 @@
 #!/bin/bash
-This is a git repository
+This switches the current user to the user betty
